@@ -104,7 +104,8 @@ document.addEventListener('DOMContentLoaded', () => {
     });
 
     // Initialize Macy.js masonry for this gallery
-    Macy({
+    const loader = gallery.previousElementSibling;
+    const macyInstance = Macy({
       container: gallery,
       trueOrder: true,
       waitForImages: true,
@@ -114,6 +115,10 @@ document.addEventListener('DOMContentLoaded', () => {
         800: 2,
         500: 1,
       },
+    });
+    macyInstance.on(Macy.constants.EVENT_IMAGE_COMPLETE, () => {
+      gallery.classList.add('macy-ready');
+      if (loader) loader.classList.add('hidden');
     });
   });
 
