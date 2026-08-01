@@ -4,7 +4,7 @@ title: "ABOUT ME"
 
 <div class="info-columns">
   <div class="info-bio">
-    <p>I am Postdoctoral Scientist in Douglas Rasher's Lab at the Bigelow Laboratory for Ocean Sciences.
+    <p>I am a Postdoctoral Scientist in Douglas Rasher's Lab at the Bigelow Laboratory for Ocean Sciences.
     I use concepts from community ecology to understand how coral reef organisms, from microbes to fish, are shaped by their ever-changing environments. I strive to conduct research that helps inform marine conservation and restoration.</p>
   </div>
   <div class="info-contact">
