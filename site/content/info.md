@@ -32,6 +32,7 @@ hero_alt: ""
 <img src="/images/sara_mermaid.jpg" alt="">
 <img src="/images/sara_sea.JPG" alt="">
 <img src="/images/sara_coral.JPG" alt="">
-<img src="/images/sara_coral.JPG" alt="">
+<img src="/DigestTeamEscudo2024 Large.jpeg" alt="">
+<img src="/06ea40e5-4426-449a-89ae-02efd6919a12 copy Large.jpeg" alt="">
 {{< /gallery >}}
 
