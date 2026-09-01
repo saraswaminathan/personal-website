@@ -35,7 +35,7 @@ hero_credit: "Photo: Andy Quinn"
 <img src="/images/sara_mermaid.jpg" alt="">
 <img src="/images/sara_sea.JPG" alt="">
 <img src="/images/sara_coral.JPG" alt="">
-<img src="/DigestTeamEscudo2024.jpg" alt="">
-<img src="/06ea40e5-4426-449a-89ae-02efd6919a12 copy.JPG" alt="">
+<img src="/images/DigestTeamEscudo2024.jpg" alt="">
+<img src="/images/06ea40e5-4426-449a-89ae-02efd6919a12 copy.JPG" alt="">
 {{< /gallery >}}
 
