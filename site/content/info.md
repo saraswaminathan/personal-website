@@ -27,6 +27,8 @@ hero_alt: ""
 <img src="/images/sara_boat2.jpeg" alt="">
 <img src="/images/sara_bug.jpeg" alt="">
 <img src="/images/sara_event.jpeg" alt="">
+<img src="/images/A0E9DD12-800C-4A91-B87D-6556F2CF78C6_1_105_c.jpeg" alt="">
+<img src="/images/52E39CBC-BE60-4C37-AF1C-2D0117745060_1_105_c.jpeg" alt="">
 <img src="/images/sara_dive.jpg" alt="">
 <img src="/images/sara_present.jpeg" alt="">
 <img src="/images/sara_mermaid.jpg" alt="">
