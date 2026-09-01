@@ -3,7 +3,7 @@
 <head>
   {{ partial "head.html" . }}
 </head>
-<body class="{{ if .IsHome }}is-home{{ else }}page-{{ .Title | urlize }}{{ end }}">
+<body class="{{ if .IsHome }}is-home{{ else }}page-{{ .Title | urlize }}{{ end }}{{ if .Params.hero_image }} has-hero{{ end }}">
   <div class="site-wrapper">
     {{ partial "header.html" . }}
     <main class="section-main-content">
