@@ -22,7 +22,7 @@ pageRef = '/cv'
 weight = 20
 
 [[menus.main]]
-name = 'Education and Outreach'
+name = 'Education & Outreach'
 pageRef = '/educationOutreach'
 weight = 30
 
