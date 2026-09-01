@@ -1,5 +1,4 @@
 {{ define "main" }}
-  <div class="home-hero">
-    {{ .Content }}
-  </div>
+  <div class="home-hero" style="background-image: url('{{ .Params.hero_image }}');" role="img" aria-label="{{ .Params.hero_alt | default "" }}"></div>
+  {{ .Content }}
 {{ end }}
