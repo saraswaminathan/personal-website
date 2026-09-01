@@ -1,20 +1,19 @@
 ---
 title: "Gallery"
-hero_image: "/images/P5221827.JPG"
+hero_image: "/images/P5221828.JPG"
 hero_alt: ""
 ---
 
 {{< gallery >}}
 
 <img src="/images/P5221819.JPG" alt="">
-<img src="/images/P5221820.JPG" alt="">
 <img src="/images/P5221821.JPG" alt="">
 <img src="/images/P5221822.JPG" alt="">
 <img src="/images/P5221823.JPG" alt="">
 <img src="/images/P5221824.JPG" alt="">
 <img src="/images/P5221825.JPG" alt="">
 <img src="/images/P5221826.JPG" alt="">
-<img src="/images/P5221828.JPG" alt="">
+<img src="/images/P5221827.JPG" alt="">
 <img src="/images/P6101231 Large.jpeg" alt="">
 <img src="/images/P6101230 Large.jpeg" alt="">
 <img src="/images/4E9320FE-BE34-4932-A599-0B3F74668437 Large.jpeg" alt="">
