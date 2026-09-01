@@ -5,7 +5,7 @@ hero_alt: ""
 ---
 
 {{< gallery >}}
-<img src="/images/P6101231 Large.jpg" alt="">
+<img src="/images/P6101231 Large.jpeg" alt="">
 <img src="/images/P6101230 Large.jpeg" alt="">
 <img src="/images/0AED03B8-48D0-46BE-ACE4-E62364C4A027 Large.jpeg" alt="">
 <img src="/images/4E9320FE-BE34-4932-A599-0B3F74668437 Large.jpeg" alt="">
@@ -19,6 +19,11 @@ hero_alt: ""
 <img src="/images/P4071324 Large.jpeg" alt="">
 <img src="/images/P4071368 Large.jpeg" alt="">
 <img src="/images/P4060034 Large.jpeg" alt="">
+<img src="/images/P8241150.JPG" alt="">
+<img src="/images/P8241198.JPG" alt="">
+<img src="/images/P8241172.JPG" alt="">
+<img src="/images/P8241152.JPG" alt="">
+<img src="/images/P1010895.JPG" alt="">
 {{< /gallery >}}
 
 <p class="photo-credit-line">Reef-crevice parrotfish photo: Andy Quinn. All others: Sara Swaminathan.</p>
