@@ -35,4 +35,4 @@ hero_alt: ""
 <img src="/images/P1010895.JPG" alt="">
 {{< /gallery >}}
 
-<p class="photo-credit-line">Reef-crevice parrotfish photo: Andy Quinn. All others: Sara Swaminathan.</p>
+<p class="photo-credit-line">Photos: Sara Swaminathan.</p>
