@@ -19,7 +19,6 @@ hero_alt: ""
 <img src="/images/P6101230 Large.jpeg" alt="">
 <img src="/images/4E9320FE-BE34-4932-A599-0B3F74668437 Large.jpeg" alt="">
 <img src="/images/7EAEE1DA-15E3-4ABF-8803-2D6355B7666B Large.jpeg" alt="">
-<img src="/images/5FDC9D4C-8F27-4DA5-AEDD-F14540465F98_1_102_o Large.jpeg" alt="">
 <img src="/images/385105BC-E179-48AF-880F-E7704B96C52C Large.jpeg" alt="">
 <img src="/images/A1355B1F-1D04-4CCD-A23F-02C94884F536 Large.jpeg" alt="">
 <img src="/images/P4081452 Large.jpeg" alt="">
