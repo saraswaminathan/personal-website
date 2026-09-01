@@ -204,6 +204,13 @@ small a {
   padding-right: 5.4rem;
 }
 
+/* Pages with a hero image (incl. Home) start flush at the very top of the
+   viewport, so the fixed header floats transparently over the photo instead
+   of sitting on a strip of the plain page background. */
+body.has-hero .section-main-content .page-content {
+  padding-top: 0;
+}
+
 /* ============================================================
    HOME PAGE
    ============================================================ */
@@ -320,47 +327,20 @@ body.is-home .home-hero img {
 
 .gallery-wrapper {
   position: relative;
-  min-height: 6rem;
-}
-
-.gallery-loader {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  padding: 4rem 0;
-}
-
-.gallery-loader::after {
-  content: '';
-  width: 28px;
-  height: 28px;
-  border: 2px solid rgba(0, 0, 0, 0.12);
-  border-top-color: rgba(0, 0, 0, 0.45);
-  border-radius: 50%;
-  animation: gallery-spin 0.8s linear infinite;
-}
-
-@keyframes gallery-spin {
-  to { transform: rotate(360deg); }
-}
-
-.gallery-loader.hidden {
-  display: none;
 }
 
 div.image-gallery {
-  position: relative;
-  opacity: 0;
-  transition: opacity 0.3s ease;
-}
-
-div.image-gallery.macy-ready {
-  opacity: 1;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 0.8rem;
 }
 
 div.image-gallery img {
   display: block;
   width: 100%;
+  aspect-ratio: 4 / 3;
+  object-fit: cover;
+  cursor: pointer;
 }
 
 /* ============================================================
