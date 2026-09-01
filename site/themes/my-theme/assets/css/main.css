@@ -400,9 +400,9 @@ div.image-gallery img {
 
 .page-hero {
   width: 100vw;
-  height: 56vh;
-  min-height: 340px;
-  max-height: 620px;
+  height: 72vh;
+  min-height: 460px;
+  max-height: 780px;
   overflow: hidden;
   position: relative;
   left: 50%;
