@@ -216,10 +216,14 @@ body.is-home .section-main-content .page-content {
 
 body.is-home .home-hero {
   width: 100vw;
+  height: 300vh; /* how much scrolling before the repeats stop — raise/lower to add or remove repeats */
   position: relative;
   left: 50%;
   transform: translateX(-50%);
-  background: #111;
+  background-color: #111;
+  background-repeat: repeat-y;
+  background-size: 100% auto;
+  background-position: top center;
 }
 
 body.is-home .home-hero img {
