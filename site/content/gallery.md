@@ -1,6 +1,6 @@
 ---
 title: "Gallery"
-hero_image: "/images/B16AAE83-5E01-4211-B149-2CB292BC8908 Large.jpeg"
+hero_image: "/images/P5221827.JPG.jpeg"
 hero_alt: ""
 ---
 
@@ -15,7 +15,6 @@ hero_alt: ""
 <img src="/images/P5221824.JPG" alt="">
 <img src="/images/P5221825.JPG" alt="">
 <img src="/images/P5221826.JPG" alt="">
-<img src="/images/P5221827.JPG" alt="">
 <img src="/images/P5221828.JPG" alt="">
 <img src="/images/4E9320FE-BE34-4932-A599-0B3F74668437 Large.jpeg" alt="">
 <img src="/images/7EAEE1DA-15E3-4ABF-8803-2D6355B7666B Large.jpeg" alt="">
