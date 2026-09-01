@@ -95,30 +95,14 @@ document.addEventListener('DOMContentLoaded', () => {
     if (e.key === 'ArrowRight') showImage(currentIndex + 1);
   });
 
-  // Attach click events — group images by their gallery container
+// Attach click events — group images by their gallery container
+  // (layout itself is a plain CSS grid now, so images always stay in the
+  // order they're listed in the page's markdown — no masonry library needed)
   document.querySelectorAll('.image-gallery').forEach(gallery => {
     const imgs = Array.from(gallery.querySelectorAll('img'));
     imgs.forEach((img, i) => {
       img.style.cursor = 'pointer';
       img.addEventListener('click', () => openModal(imgs, i));
-    });
-
-    // Initialize Macy.js masonry for this gallery
-    const loader = gallery.previousElementSibling;
-    const macyInstance = Macy({
-      container: gallery,
-      trueOrder: true,
-      waitForImages: true,
-      margin: 8,
-      columns: 3,
-      breakAt: {
-        800: 2,
-        500: 1,
-      },
-    });
-    macyInstance.on(Macy.constants.EVENT_IMAGE_COMPLETE, () => {
-      gallery.classList.add('macy-ready');
-      if (loader) loader.classList.add('hidden');
     });
   });
 
