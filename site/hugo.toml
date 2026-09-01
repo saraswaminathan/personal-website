@@ -22,6 +22,11 @@ pageRef = '/cv'
 weight = 20
 
 [[menus.main]]
-name = 'Art'
-pageRef = '/science-illustrations'
+name = 'Education and Outreach'
+pageRef = '/educationOutreach'
 weight = 30
+
+[[menus.main]]
+name = 'Gallery'
+pageRef = '/gallery'
+weight = 40
