@@ -1,6 +1,6 @@
 ---
 title: "ABOUT ME"
-hero_image: "/images/CBC_SARA_7_AndyQuinn Large.jpeg"
+hero_image: "/images/CBC_SARA_7_AndyQuinn.JPG"
 hero_alt: ""
 ---
 
