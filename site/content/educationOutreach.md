@@ -12,7 +12,6 @@ hero_credit: "ICRS 2026 professional photographer"
   <img src="/images/50AFBEEC-EFD1-453E-91C5-F1CE711D9230 Large.jpeg" alt="Students conducting benthic surveys">
   <img src="/images/0E456F0B-5DD0-4931-BA86-FD108F979D52_1_105_c Large.jpeg" alt="Student conducting fish behavioral surveys">
 </div>
-<p class="edu-credit-line">Underwater survey close-up: Andy Quinn</p>
 
 <div class="edu-section-label">Reefologies and the Boston High School Marine Science Symposium, Boston, MA</div>
 <div class="edu-photo-grid" style="margin-top: 1.6rem; max-width: 46rem;">
