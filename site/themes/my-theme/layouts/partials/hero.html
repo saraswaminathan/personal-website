@@ -1,0 +1,8 @@
+{{ with .Params.hero_image }}
+<div class="page-hero">
+  <img src="{{ . }}" alt="{{ $.Params.hero_alt | default "" }}">
+  {{ with $.Params.hero_credit }}
+  <p class="page-hero-credit">Photo: {{ . }}</p>
+  {{ end }}
+</div>
+{{ end }}
