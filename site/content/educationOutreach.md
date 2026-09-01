@@ -16,6 +16,6 @@ hero_credit: "ICRS 2026 professional photographer"
 
 <div class="edu-section-label">Reefologies and the Boston High School Marine Science Symposium, Boston, MA</div>
 <div class="edu-photo-grid" style="margin-top: 1.6rem; max-width: 46rem;">
-  <img src="/images/redesign/edu-reefologies-cards.jpg" alt="Two students playing the Reefologies card game at a table, laying down reef-themed cards">
+  <img src="/images/A31A2629HSMSS2026_CharleeRivera Large.jpeg" alt="Two students playing the Reefologies card game at a table, laying down reef-themed cards">
 </div>
 <p class="edu-credit-line">Photo: Charlee Rivera</p>
