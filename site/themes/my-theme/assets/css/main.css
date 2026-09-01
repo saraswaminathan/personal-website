@@ -216,21 +216,17 @@ body.is-home .section-main-content .page-content {
 
 body.is-home .home-hero {
   width: 100vw;
-  height: calc(100vh - 5.4rem);
-  overflow: hidden;
   position: relative;
   left: 50%;
   transform: translateX(-50%);
+  background: #111;
 }
 
 body.is-home .home-hero img {
   width: 100%;
-  height: 100%;
-  object-fit: cover;
+  height: auto;
   display: block;
-  object-position: center;
 }
-
 /* ============================================================
    GALLERY CAPTION
    ============================================================ */
@@ -400,10 +396,6 @@ div.image-gallery img {
 
 .page-hero {
   width: 100vw;
-  height: 72vh;
-  min-height: 460px;
-  max-height: 780px;
-  overflow: hidden;
   position: relative;
   left: 50%;
   transform: translateX(-50%);
@@ -413,10 +405,8 @@ div.image-gallery img {
 
 .page-hero img {
   width: 100%;
-  height: 100%;
-  object-fit: cover;
+  height: auto;
   display: block;
-  object-position: center;
 }
 
 .page-hero-credit {
