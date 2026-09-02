@@ -222,8 +222,9 @@ body.is-home .section-main-content .page-content {
 }
 
 body.is-home .home-hero {
+  --repeats: 3; /* how many times the photo repeats before the page ends — raise/lower to add or remove repeats */
   width: 100vw;
-  height: 300vh; /* how much scrolling before the repeats stop — raise/lower to add or remove repeats */
+  height: calc(var(--repeats) * 75vw); /* 75vw = this photo's rendered height at full width, since it's a 4:3 image — recalculate that number if the hero photo is swapped for one with a different aspect ratio */
   position: relative;
   left: 50%;
   transform: translateX(-50%);
@@ -233,10 +234,16 @@ body.is-home .home-hero {
   background-position: top center;
 }
 
-body.is-home .home-hero img {
-  width: 100%;
-  height: auto;
-  display: block;
+.home-hero-credit {
+  position: absolute;
+  left: 2rem;
+  bottom: 1.4rem;
+  margin: 0;
+  font-family: "Space Mono", sans-serif;
+  font-size: 1.2rem;
+  letter-spacing: 0.02em;
+  color: rgba(255, 255, 255, 0.8);
+  text-shadow: 0 1px 4px rgba(0, 0, 0, 0.55);
 }
 /* ============================================================
    GALLERY CAPTION
