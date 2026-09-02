@@ -16,5 +16,8 @@ hero_credit: "ICRS 2026 professional photographer"
 <div class="edu-section-label">Reefologies and the Boston High School Marine Science Symposium, Boston, MA</div>
 <div class="edu-photo-grid" style="margin-top: 1.6rem">
   <img src="/images/A31A2629HSMSS2026_CharleeRivera Large.jpeg" alt="">
+  <img src="/images/IMG_1502.jpeg" alt="">
+  <img src="/images/IMG_3559.jpeg" alt="">
+  <img src="/images/IMG_3566.jpeg" alt="">
 </div>
 <p class="edu-credit-line">Photo: Charlee Rivera</p>
