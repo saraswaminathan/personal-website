@@ -2,7 +2,7 @@
 title: "EDUCATION & OUTREACH"
 hero_image: "/images/260719_ICRS_Mon-366.jpg"
 hero_alt: "ICRS 2026"
-hero_credit: "ICRS 2026 professional photographer"
+hero_credit: "Photo: ICRS 2026 professional photographer"
 ---
 
 
