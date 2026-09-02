@@ -221,6 +221,10 @@ body.is-home .section-main-content .page-content {
   padding-right: 0;
 }
 
+body.is-home .section-header-name h1 a {
+  color: #536e77;
+}
+
 body.is-home .home-hero {
   --repeats: 3; /* how many times the photo repeats before the page ends — raise/lower to add or remove repeats */
   width: 100vw;
