@@ -2,7 +2,7 @@
 title: "ABOUT ME"
 hero_image: "/images/CBC_SARA_7_AndyQuinn.jpg"
 hero_alt: ""
-hero_credit: "Andy Quinn"
+hero_credit: "© Andy Quinn. All rights reserved."
 ---
 
 <div class="info-columns">
