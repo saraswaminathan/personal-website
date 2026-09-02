@@ -1,8 +1,6 @@
 {{ with .Params.hero_image }}
 <div class="page-hero">
   <img src="{{ . }}" alt="{{ $.Params.hero_alt | default "" }}">
-  {{ with $.Params.hero_credit }}
-  <p class="page-hero-credit">Photo: {{ . }}</p>
-  {{ end }}
+  <p class="page-hero-credit">{{ with $.Params.hero_credit }}Photo: {{ . }} &middot; {{ end }}&copy; Sara Swaminathan. All rights reserved.</p>
 </div>
 {{ end }}
