@@ -1,8 +1,6 @@
 {{ define "main" }}
   <div class="home-hero" style="background-image: url('{{ .Params.hero_image }}');" role="img" aria-label="{{ .Params.hero_alt | default "" }}">
-    {{ with .Params.hero_credit }}
-    <p class="home-hero-credit">{{ . }}</p>
-    {{ end }}
+    <p class="home-hero-credit">{{ with .Params.hero_credit }}{{ . }} &middot; {{ end }}&copy; Sara Swaminathan. All rights reserved.</p>
   </div>
   {{ .Content }}
 {{ end }}
