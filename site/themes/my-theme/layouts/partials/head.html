@@ -1,7 +1,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 {{- $pageTitle := cond .IsHome site.Title (printf "%s | %s" .Title site.Title) }}
-{{- $description := .Params.description | default "Sara Swaminathan, PhD — coral reef ecologist and underwater photographer." }}
+{{- $description := .Params.description | default "Sara Swaminathan, PhD" }}
 {{- $shareImage := .Params.hero_image | default "/images/P5221827.JPG" }}
 <title>{{ $pageTitle }}</title>
 <link href="/css/fonts.css" rel="stylesheet" type="text/css">
